@@ -8,6 +8,9 @@ Comandos:
 
 
 pkg install git
+
 pkg install python
+
 cd fakeroot
+
 python froot.py
