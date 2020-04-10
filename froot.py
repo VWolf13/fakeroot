@@ -1,4 +1,5 @@
 import os
+os.system('clear')
 os.system('sleep 0.1')
 print("\n\n<--------------------------------->")
 os.system('sleep 0.1')
