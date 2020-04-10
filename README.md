@@ -4,7 +4,8 @@
 >El usuario no posee los privilegios root, pero si para los scripts que requieren acceso root
 
 
-Comandos:
+Comandos de instalación:
+
 
 
 pkg install git
